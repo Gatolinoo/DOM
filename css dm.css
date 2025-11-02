@@ -1,0 +1,9 @@
+.erro {
+  font-size: 0.9em;
+  color: red;
+  margin-left: 10px;
+}
+
+input:invalid {
+  border: 1px solid red;
+}
